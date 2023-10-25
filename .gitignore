@@ -25,3 +25,5 @@ yarn-debug.log*
 yarn-error.log*
 dist/
 .env
+temp_interactive_push.bat
+.gitignore
